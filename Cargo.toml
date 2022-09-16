@@ -2,6 +2,12 @@
 name = "lscolorsvis"
 version = "0.1.0"
 edition = "2021"
+authors = ["Abin Simon <abinsimon10@gmail.com>"]
+description = "Visualize $LS_COLROS"
+license = "Apache-2.0"
+homepage = "https://github.com/meain/lscolorsvis"
+repository = "https://github.com/meain/lscolorsvis"
+readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

@@ -6,7 +6,7 @@
 
 ### Usage
 
-``` shell
+```shell
 lscolorsvis # fetch from LS_COLORS env
 lscolorsvis <lscolors> # pass as cli arg
 ```
